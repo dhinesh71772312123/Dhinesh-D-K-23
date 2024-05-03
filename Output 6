@@ -1,0 +1,6 @@
+List of tuples containing name, roll number, and marks:
+[('PRIYA', 7151, 55), ('VIJAY', 1476, 44), ('RAKHESH', 9187, 85), ('DAVID', 7220, 55), ('KAVYA', 4064, 95)]
+
+Tuple containing all names: ('PRIYA', 'VIJAY', 'RAKHESH', 'DAVID', 'KAVYA')
+Tuple containing all roll numbers: (7151, 1476, 9187, 7220, 4064)
+Tuple containing all marks: (55, 44, 85, 55, 95)
